@@ -1,9 +1,9 @@
 [
   {
     "full_name": "atom/atom",
-    "stargazers_count": 54101,
-    "open_issues_count": 743,
-    "forks_count": 15627
+    "stargazers_count": 54114,
+    "open_issues_count": 728,
+    "forks_count": 15634
   },
   {
     "full_name": "open-sauced/open-sauced",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "expressjs/express",
-    "stargazers_count": 51559,
+    "stargazers_count": 51590,
     "open_issues_count": 157,
-    "forks_count": 8627
+    "forks_count": 8630
   },
   {
     "full_name": "Kilian/fromscratch",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "Automattic/simplenote-electron",
-    "stargazers_count": 3343,
-    "open_issues_count": 122,
+    "stargazers_count": 3344,
+    "open_issues_count": 114,
     "forks_count": 467
   },
   {
     "full_name": "t9md/atom-vim-mode-plus",
-    "stargazers_count": 1387,
+    "stargazers_count": 1389,
     "open_issues_count": 121,
     "forks_count": 113
   }
